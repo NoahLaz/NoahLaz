@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript frameworks (react/vue) as a main dev envirements. but also exploring other web frameworks.
 - 💞️ I’m looking to collaborate on anything about web. I'm trying to expande my knowledge...
 - 📫 How to reach me nouh.salama@gmail.com
-- 🎮 I love video games. btw Elden Ring is a masterpiece.
+- 🎮 I love video games. Elden Ring is my favourite game.
 
 <!---
 NoahLaz/NoahLaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
